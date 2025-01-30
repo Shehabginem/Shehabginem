@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Shehab Ginem 👋  
+🚀 Senior Software Engineer | iOS | Core ML | Full-Stack Development  
+🎯 Specializing in Swift, Node.js, Firebase, Core ML, and API Development  
+💡 Passionate about integrating AI/ML into user-centered applications  
 
-<!--
-**Shehabginem/Shehabginem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔧 Tech Stack  
+- **Mobile:** Swift (iOS), Dart (Flutter), Kotlin (Android)  
+- **Backend:** Node.js, Python, GraphQL, Firebase  
+- **Frontend:** React.js, Redux, Tailwind CSS  
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Contact  
+- **LinkedIn:** https://www.linkedin.com/in/shehab-ginem-280860127/
+- **GitHub:** https://github.com/Shehabginem
+- **Email:** shehabginem1123@gmail.com  
